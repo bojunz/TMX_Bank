@@ -1,7 +1,8 @@
 # TMX_Bank
-![image](https://github.com/bojunz/TMX_Bank/blob/main/data.jpg)
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/data.jpg" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 400px;">
 
 # Milestone 1 (Asset.pdf)
+
 ### 1. Asset Register & Discussion
 - **Assets**: TMXBank’s main assets include systems, servers (both physical and cloud), and trading procedures, which are critical for supporting sales and business operations.
 - **Focus**: Emphasis is on the network security of servers, with the location often being online rather than focusing on physical security.
