@@ -52,7 +52,7 @@
 - **Middle Priorities**: Risks related to data theft, SQL injections, and customer privacy breaches.
 - **Lower Priorities**: Physical hazards like fires and strategic risks such as overbudgeting.
 
-# Milestone 3
+# Milestone 3 (TMXBank_Analysis.pdf)
 ### Key Points Summary
 
 1. **Executive Summary**: Disasters, including cyber-attacks, can damage key assets. Identifying and controlling vulnerabilities is crucial for smooth operations at TMX Bank, an IT-reliant company.
