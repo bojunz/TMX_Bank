@@ -1,4 +1,8 @@
 # TMX_Bank
+<iframe src="https://giphy.com/embed/2xMd6BEs8DMrpfrOb5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+[View on GIPHY](https://giphy.com/gifs/2xMd6BEs8DMrpfrOb5)
+
 # Milestone 1 (Asset.pdf)
 ### 1. Asset Register & Discussion
 - **Assets**: TMXBank’s main assets include systems, servers (both physical and cloud), and trading procedures, which are critical for supporting sales and business operations.
