@@ -1,7 +1,5 @@
 # TMX_Bank
-<iframe src="https://giphy.com/embed/2xMd6BEs8DMrpfrOb5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-[View on GIPHY](https://giphy.com/gifs/2xMd6BEs8DMrpfrOb5)
+![image](https://github.com/bojunz/TMX_Bank/blob/main/data.jpg)
 
 # Milestone 1 (Asset.pdf)
 ### 1. Asset Register & Discussion
