@@ -1,5 +1,5 @@
 # TMX_Bank
-# Milestone 1 ---Asset.pdf
+# Milestone 1 (Asset.pdf)
 ### 1. Asset Register & Discussion
 - **Assets**: TMXBank’s main assets include systems, servers (both physical and cloud), and trading procedures, which are critical for supporting sales and business operations.
 - **Focus**: Emphasis is on the network security of servers, with the location often being online rather than focusing on physical security.
@@ -17,7 +17,7 @@
 - **Physical Threats**: Workplace shutdowns, website downtime, and similar incidents directly affect operations and profits.
 - **Controls**: Employ hot sites, cold sites, data backups, and other contingency measures to ensure continued security and operational resilience.
 
-# Milesone 2
+# Milesone 2 (Threat&Vulnerability.pdf)
 ### 1. Qualitative Assessment
 - **Purpose**: Focuses on understanding risks, their causes, likelihood, and potential impacts.
 - **Risk Categories**: System environment risk, development environment risk, organizational and management risk.
