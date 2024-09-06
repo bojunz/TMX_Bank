@@ -80,4 +80,3 @@
    - **Firewall Failure**: Risk of data theft; mitigated with timely updates and third-party management.
 
 5. **Business Impact Analysis**: Prioritize website, database, and firewall integrity to ensure rapid recovery and minimize financial losses.
-<img src="https://github.com/bojunz/TMX_Bank/blob/main/Prioritize%20Risk%20Register.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
