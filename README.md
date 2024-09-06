@@ -1,5 +1,4 @@
 # TMX_Bank
-<img src="https://github.com/bojunz/TMX_Bank/blob/main/data.jpg" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 400px;">
 
 # Milestone 1 (Asset.pdf)
 
@@ -7,18 +6,21 @@
 - **Assets**: TMXBank’s main assets include systems, servers (both physical and cloud), and trading procedures, which are critical for supporting sales and business operations.
 - **Focus**: Emphasis is on the network security of servers, with the location often being online rather than focusing on physical security.
 - **Importance**: Assets include both tangible (servers, systems) and intangible (customer data, transaction data) elements, essential for decision-making.
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Asset.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
 ### 2. Vulnerability Registration & Discussion
 - **Purpose**: Identifies weaknesses in the assets, focusing mainly on network security vulnerabilities.
 - **Common Vulnerabilities**: Includes outdated firewalls, unpatched systems, and default settings that are susceptible to attacks.
 - **Additional Risks**: Data loss, network disruptions, and website outages due to various factors, both natural and human-made.
 - **Mitigation Measures**: Installing firewalls, updating patches, and adjusting configurations to defend against vulnerabilities.
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Vulnerability.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
 ### 3. Threat Registration & Discussion
 - **Definition**: Threats are activities that pose risks to assets, classified into natural and artificial categories.
 - **Common Threats**: Includes email encryption flaws, cross-site requests, and SQL injection attacks that compromise data security.
 - **Physical Threats**: Workplace shutdowns, website downtime, and similar incidents directly affect operations and profits.
 - **Controls**: Employ hot sites, cold sites, data backups, and other contingency measures to ensure continued security and operational resilience.
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Threat.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
 # Milesone 2 (Threat&Vulnerability.pdf)
 ### 1. Qualitative Assessment
@@ -35,6 +37,8 @@
   - **R8: Server Power Outages** - Natural disasters causing power outages and system disruptions.
   - **R9: Mail System Security Breaches** - Technical attacks leading to data theft.
   - **R10: Official Website Blocked** - High traffic or DDoS attacks leading to downtime.
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Risk_matrix.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 400px;">
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Risk.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
 ### 2. Quantitative Assessment
 - **Metrics Used**:
@@ -44,6 +48,7 @@
   - **Annual Occurrence Rate (ARO)**: Frequency of attacks in a year.
   - **Annual Loss Expectancy (ALE)**: Estimated annual financial loss from attacks.
 - **Assessment Insights**: Combines asset values and qualitative risks to estimate potential financial impacts.
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Quantitative%20Assessment.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
 ### 3. Prioritize Risk Register
 - **Top Priority**: Website blockage due to its direct impact on TMXBank’s operations and customer service.
@@ -51,6 +56,7 @@
 - **Third Priority**: Server breakdowns impacting email, file, and database servers.
 - **Middle Priorities**: Risks related to data theft, SQL injections, and customer privacy breaches.
 - **Lower Priorities**: Physical hazards like fires and strategic risks such as overbudgeting.
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Quantitative%20Assessment.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
 # Milestone 3 (TMXBank_Analysis.pdf)
 ### Key Points Summary
@@ -74,3 +80,4 @@
    - **Firewall Failure**: Risk of data theft; mitigated with timely updates and third-party management.
 
 5. **Business Impact Analysis**: Prioritize website, database, and firewall integrity to ensure rapid recovery and minimize financial losses.
+<img src="https://github.com/bojunz/TMX_Bank/blob/main/Prioritize%20Risk%20Register.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
