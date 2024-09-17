@@ -22,7 +22,7 @@
 - **Controls**: Employ hot sites, cold sites, data backups, and other contingency measures to ensure continued security and operational resilience.
 <img src="https://github.com/bojunz/TMX_Bank/blob/main/Threat.png" alt="Demo Login Page GIF" style="border: 2px solid black; max-width: 100%; height: 200px;">
 
-# Milesone 2 (Threat&Vulnerability.pdf)
+# Milestone 2 (Threat&Vulnerability.pdf)
 ### 1. Qualitative Assessment
 - **Purpose**: Focuses on understanding risks, their causes, likelihood, and potential impacts.
 - **Risk Categories**: System environment risk, development environment risk, organizational and management risk.
